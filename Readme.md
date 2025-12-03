@@ -19,7 +19,7 @@ Learns from CSV conversations to extract user insights, then adapts AI responses
 - Selects from 6 personality types
 - Returns: personality + confidence + tone profile
 
-## Layer 3: Tone Transformation**
+## Layer 3: Tone Transformation
 - Takes base response
 - Applies personality tone (6 dimensions)
 - Returns: personality-adapted response
